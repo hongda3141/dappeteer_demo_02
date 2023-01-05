@@ -1,0 +1,17 @@
+{
+  "name": "test_dappeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@chainsafe/dappeteer": "^3.0.0",
+    "puppeteer": "^18.2.1"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
